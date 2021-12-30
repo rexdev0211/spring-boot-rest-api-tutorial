@@ -49,4 +49,4 @@ The app defines following CRUD APIs.
         "publishDate": "2021-12-30"
     }
 
-    GET /api/v1/articles?startDate=2021-12-21
+    GET /api/v1/articles/statistics?startDate=2021-12-21
